@@ -1,0 +1,16 @@
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\repository\CustomerRepository.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\Vendor.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\dto\RegisterRequest.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\Role.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\BackendApplication.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\security\JwtProvider.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\repository\VendorRepository.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\security\SecurityConfig.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\repository\UserRepository.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\security\JwtFilter.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\dto\LoginRequest.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\service\AuthService.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\controller\AuthController.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\dto\AuthResponse.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\Customer.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\User.java
