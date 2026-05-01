@@ -8,6 +8,7 @@ com\nexora\backend\model\Vendor$VendorBuilder.class
 com\nexora\backend\service\AuthService.class
 com\nexora\backend\controller\AuthController.class
 com\nexora\backend\model\Role.class
+com\nexora\backend\repository\RefreshTokenRepository.class
 com\nexora\backend\model\Vendor.class
 com\nexora\backend\dto\AuthResponse.class
 com\nexora\backend\model\User$UserBuilder.class
@@ -17,4 +18,5 @@ com\nexora\backend\repository\UserRepository.class
 com\nexora\backend\dto\AuthResponse$AuthResponseBuilder.class
 com\nexora\backend\dto\RegisterRequest.class
 com\nexora\backend\security\JwtFilter.class
+com\nexora\backend\model\RefreshToken.class
 com\nexora\backend\model\User.class

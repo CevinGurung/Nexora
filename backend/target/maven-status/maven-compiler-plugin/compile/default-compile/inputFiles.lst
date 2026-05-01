@@ -1,6 +1,8 @@
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\repository\CustomerRepository.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\RefreshToken.java
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\Vendor.java
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\dto\RegisterRequest.java
+C:\Code\Nexora\backend\src\main\java\com\nexora\backend\repository\RefreshTokenRepository.java
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\model\Role.java
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\BackendApplication.java
 C:\Code\Nexora\backend\src\main\java\com\nexora\backend\security\JwtProvider.java

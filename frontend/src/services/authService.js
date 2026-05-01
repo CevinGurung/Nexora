@@ -26,6 +26,14 @@ const registerCustomer = async (data) => {
   return response.data;
 };
 
+const refreshToken = async (token) => {
+  const response = await axios.post(`${API_URL}/refresh-token`, { refreshToken: token });
+  if (response.data.token) {
+    localStorage.setItem('user', JSON.stringify(response.data));
+  }
+  return response.data;
+};
+
 const logout = () => {
   localStorage.removeItem('user');
 };
@@ -38,6 +46,7 @@ const authService = {
   login,
   registerVendor,
   registerCustomer,
+  refreshToken,
   logout,
   getCurrentUser,
 };
